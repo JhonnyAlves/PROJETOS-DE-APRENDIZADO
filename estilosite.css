@@ -7,6 +7,7 @@ h1 {
     color: #0f4c81;
     text-align: center;
     text-decoration: underline;
+    text-shadow: 1px 1px 1px black;
 }
 h2 {
     color: darkgreen;
